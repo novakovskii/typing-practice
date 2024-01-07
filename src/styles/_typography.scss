@@ -1,0 +1,31 @@
+$body-font-family: 'Golos UI';
+$mono-font-family: 'Roboto Mono';
+
+.text-h2 {
+    font-family: $body-font-family !important;
+    font-size: 32px !important;
+    font-weight: 700 !important;
+    line-height: 115% !important;
+}
+
+.text-body-1 {
+    font-family: $mono-font-family !important;
+    font-size: 18px !important;
+    font-weight: normal !important;
+    line-height: 148% !important;
+    letter-spacing: normal !important;
+}
+
+.text-body-2 {
+    font-family: $body-font-family !important;
+    font-size: 14px !important;
+    font-weight: 400 !important;
+    line-height: 115% !important;
+}
+
+.text-subtitle-2 {
+    font-family: $body-font-family !important;
+    font-size: 14px !important;
+    font-weight: 500 !important;
+    line-height: 115% !important;
+}

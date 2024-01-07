@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'Golos UI';
+    src: url('GolosUI-Bold.eot');
+    src: url('GolosUI-Bold.eot?#iefix') format('embedded-opentype'),
+        url('GolosUI-Bold.woff2') format('woff2'),
+        url('GolosUI-Bold.woff') format('woff'),
+        url('GolosUI-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Golos UI';
+    src: url('GolosUI-Regular.eot');
+    src: url('GolosUI-Regular.eot?#iefix') format('embedded-opentype'),
+        url('GolosUI-Regular.woff2') format('woff2'),
+        url('GolosUI-Regular.woff') format('woff'),
+        url('GolosUI-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Golos UI';
+    src: url('GolosUI-Medium.eot');
+    src: url('GolosUI-Medium.eot?#iefix') format('embedded-opentype'),
+        url('GolosUI-Medium.woff2') format('woff2'),
+        url('GolosUI-Medium.woff') format('woff'),
+        url('GolosUI-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
